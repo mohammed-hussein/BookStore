@@ -41,7 +41,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acme.BookStore.HttpApi.Clie
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acme.BookStore.DbMigrator", "src\Acme.BookStore.DbMigrator\Acme.BookStore.DbMigrator.csproj", "{AA94D832-1CCC-4715-95A9-A483F23A1A5D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "STCS.Framework.Infrastructure", "src\STCS.Framework.Infrastructure\STCS.Framework.Infrastructure.csproj", "{E9ED6C08-C2BF-4110-BB87-B9B3FC35D9D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acme.BookStore.Infrastructure", "src\STCS.Framework.Infrastructure\Acme.BookStore.Infrastructure.csproj", "{E9ED6C08-C2BF-4110-BB87-B9B3FC35D9D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

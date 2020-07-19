@@ -7,7 +7,7 @@ using Volo.Abp.DependencyInjection;
 using Volo.Abp.ObjectMapping;
 using Api = Acme.BookStore.EServices;
 
-namespace STCS.Framework.Infrastructure.EServices
+namespace Acme.BookStore.Infrastructure.EServices
 {
     [Dependency(ReplaceServices = true)]
     [ExposeServices(typeof(ITaskRepository))]

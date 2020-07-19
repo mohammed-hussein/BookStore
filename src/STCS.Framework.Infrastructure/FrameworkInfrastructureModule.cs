@@ -3,7 +3,7 @@ using Volo.Abp.Autofac;
 using Volo.Abp.AutoMapper;
 using Volo.Abp.Modularity;
 
-namespace STCS.Framework.Infrastructure
+namespace Acme.BookStore.Infrastructure
 {
     [DependsOn(
         typeof(AbpAutofacModule),
