@@ -41,7 +41,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acme.BookStore.HttpApi.Clie
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acme.BookStore.DbMigrator", "src\Acme.BookStore.DbMigrator\Acme.BookStore.DbMigrator.csproj", "{AA94D832-1CCC-4715-95A9-A483F23A1A5D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acme.BookStore.Infrastructure", "src\STCS.Framework.Infrastructure\Acme.BookStore.Infrastructure.csproj", "{E9ED6C08-C2BF-4110-BB87-B9B3FC35D9D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.BookStore.Infra", "src\Acme.BookStore.Infra\Acme.BookStore.Infra.csproj", "{7FB40E1E-F6F2-4345-B044-3CF332B246BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,10 +117,10 @@ Global
 		{AA94D832-1CCC-4715-95A9-A483F23A1A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA94D832-1CCC-4715-95A9-A483F23A1A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA94D832-1CCC-4715-95A9-A483F23A1A5D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E9ED6C08-C2BF-4110-BB87-B9B3FC35D9D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9ED6C08-C2BF-4110-BB87-B9B3FC35D9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E9ED6C08-C2BF-4110-BB87-B9B3FC35D9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E9ED6C08-C2BF-4110-BB87-B9B3FC35D9D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB40E1E-F6F2-4345-B044-3CF332B246BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB40E1E-F6F2-4345-B044-3CF332B246BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB40E1E-F6F2-4345-B044-3CF332B246BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB40E1E-F6F2-4345-B044-3CF332B246BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -143,7 +143,7 @@ Global
 		{E512F4D9-9375-480F-A2F6-A46509F9D824} = {04DBDB01-70F4-4E06-B468-8F87850B22BE}
 		{EF480016-9127-4916-8735-D2466BDBC582} = {04DBDB01-70F4-4E06-B468-8F87850B22BE}
 		{AA94D832-1CCC-4715-95A9-A483F23A1A5D} = {CA9AC87F-097E-4F15-8393-4BC07735A5B0}
-		{E9ED6C08-C2BF-4110-BB87-B9B3FC35D9D8} = {CA9AC87F-097E-4F15-8393-4BC07735A5B0}
+		{7FB40E1E-F6F2-4345-B044-3CF332B246BF} = {CA9AC87F-097E-4F15-8393-4BC07735A5B0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {28315BFD-90E7-4E14-A2EA-F3D23AF4126F}
